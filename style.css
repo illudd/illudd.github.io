@@ -1,0 +1,25 @@
+#big-container{
+    border: 1em solid orange;
+  }
+  
+  a:link{
+      color: orange;
+  }
+  
+  a:visited {
+      color: gray;
+  }
+  
+  #btn_submit {
+      background-color: orange;
+      color: white;
+      height: 3em;
+      width: 7em;
+  }
+  
+  #btn_reset {
+      background-color: gray;
+      color: white;
+      height: 3em;
+      width: 7em;
+  }
